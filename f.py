@@ -1,5 +1,5 @@
 M=raw_input()
-if .isalpha():
+if M.isalpha():
  print("invalid")
 else:
   M=int(M)
